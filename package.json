@@ -1,0 +1,17 @@
+{
+  "name": "gateway",
+  "version": "1.0.0",
+  "description": "gateway",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "suprasanna",
+  "license": "ISC",
+  "type": "module",
+  "dependencies": {
+    "@apollo/gateway": "^2.13.3",
+    "apollo-server": "^3.13.0",
+    "graphql": "^16.13.2"
+  }
+}
